@@ -1,0 +1,12 @@
+body {
+  font-family: sans-serif;
+}
+
+#taskList li {
+  margin-bottom: 10px;
+}
+
+.completed {
+  text-decoration: line-through;
+  color: gray;
+}
